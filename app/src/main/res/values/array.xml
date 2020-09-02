@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinneritem">
+        <item>uface1</item>
+        <item>uface2c</item>
+        <item>uface2</item>
+        <item>ufacec</item>
+        <item>uface3</item>
+        <item>ufaceUnit</item>
+    </string-array>
+</resources>
